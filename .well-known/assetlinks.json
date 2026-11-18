@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.raunakcomp.mystop",
+      "sha256_cert_fingerprints": [
+        "71:52:04:9B:85:59:AA:B8:96:97:E8:D6:9F:AD:5F:3A:3C:FC:62:87:99:F3:14:2B:51:C9:0D:8A:1B:32:12:19"
+      ]
+    }
+  }
+]
